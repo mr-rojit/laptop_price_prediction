@@ -906,7 +906,7 @@ ToshibaSatellite Pro1366x768,New,Toshiba,Satellite Pro,Intel Pentium,4GB,128GB S
 AcerNitro AN515-51IPS Panel Full HD 1920x1080,New,Acer,Nitro AN515-51,Intel Core i5,8GB,256GB SSD,OTHER,15.6,No,905.22
 "HP ENVY 17-cr0004np Intel Core i7-1260P/16GB/512GB SSD/17.3"" (PT)",New,HP,Envy,Intel Core i7,16,512,,17.3,No,1453.6
 AsusX705UV-BX074T (i3-6006U/4GB/1TB/GeForceFull HD 1920x1080,New,Asus,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Intel Core i3,4GB,1TB HDD,OTHER,17.3,No,603.48
-"Vant Edge 3 Intel Core i7-1255U/40GB/1TB SSD/14""",New,Vant,Edge,Intel Core i7,40,1000,,14,No,1217.01
+"Vant Edge 3 Intel Core i7-1255U/40GB/1TB SSD/14""",New,Vant,Edge,Intel Core i7,32,1000,,14,No,1217.01
 "HP OMEN 17-ck0014ns Intel Core i7-11800H/32GB/1TB SSD/RTX 3070/17.3""",Refurbished,HP,Omen,Intel Core i7,32,1000,RTX 3070,17.3,No,1606.44
 "Lenovo IdeaPad 3 15IIL05 Intel Core i3-1005G1/8GB/256GB SSD/15.6""",Refurbished,Lenovo,IdeaPad,Intel Core i3,8,256,,15.6,No,307.09
 "Lenovo ThinkPad T470 Intel Core i5-7200U/8GB/256GB SSD/14""",Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,,14,No,475
@@ -3537,7 +3537,7 @@ HP17-ak001nv (A6-9220/4GB/500GB/RadeonFull HD 1920x1080,New,HP,17-ak001nv (A6-92
 "ASUS ROG Strix G16 G614JZ-N3008 Intel Core i7-13650HX/32GB/1TB/RTX 4080/16""",New,Asus,ROG,Intel Core i7,32,1000,RTX 4080,16,No,2599.01
 "ASUS F515EA-EJ3048W Intel Core i5-1135G7/8GB/512GB SSD/15.6""",New,Asus,F515,Intel Core i5,8,512,,15.6,No,609.01
 "PcCom Revolt 3050 Intel Core i5-13500H/16GB/500GB SSD/RTX 3050/15.6"" + Windows 11 Home",New,PcCom,Revolt,Intel Core i5,16,500,RTX 3050,15.6,No,1329.9
-"Vant Edge 3 Intel Core i7-1255U/40GB RAM/1TB SSD/14""",New,Vant,Edge,Intel Core i7,40,1000,,14,No,1217.01
+"Vant Edge 3 Intel Core i7-1255U/40GB RAM/1TB SSD/14""",New,Vant,Edge,Intel Core i7,16,1000,,14,No,1217.01
 "ASUS ZenBook 14 UM425QA-KI174W AMD Ryzen 7 5800H/16GB/512GB SSD/14""",Refurbished,Asus,ZenBook,AMD Ryzen 7,16,512,INTEL,14,No,1099
 "HP ProBook 450 G6 Intel Core i5-8265U/8GB/256GB SSD/15.6""",Refurbished,HP,ProBook,Intel Core i5,8,256,INTEL,15.6,No,569.99
 AsusX542UQ-GO005 (i5-7200U/8GB/1TB/GeForce1366x768,New,Asus,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,Intel Core i5,8GB,1TB HDD,OTHER,15.6,No,559.5993000000001
